@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">swe_interview_mobiledevapp</string>
+    <string name="fetching_data">Fetching data...</string>
+</resources>
